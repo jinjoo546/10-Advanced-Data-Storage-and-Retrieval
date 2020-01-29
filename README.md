@@ -6,3 +6,8 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration of 
 
 ### Precipitation Analysis
 * Used Pandas to print the summary statistics for the precipitation data.
+
+### Station Analysis
+* Design a query to retrieve the last 12 months of temperature observation data (tobs).
+
+## Climate App
